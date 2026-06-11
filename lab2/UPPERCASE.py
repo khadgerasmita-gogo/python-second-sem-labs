@@ -4,8 +4,8 @@ upper_cased=[name.upper() for name in names]
 print(upper_cased)
 
 
-# #lowerCase tryout 
+#lowerCase tryout 
 
-# lower_cased =[name.lower() for name in names]
+lower_cased =[name.lower() for name in names]
 
-# print(lower_cased)
+print(lower_cased)
